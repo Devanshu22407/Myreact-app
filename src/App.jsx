@@ -1,6 +1,8 @@
 import Home from './Home'
 import About from './About'
 import Contact from './Contact'
+import DoSum from './DoSum'
+
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
 function App() {
